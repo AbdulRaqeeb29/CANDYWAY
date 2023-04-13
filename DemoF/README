@@ -7,7 +7,7 @@ share their queries about a particular candy or about something. User can also v
 
 The Backend of the website is managed by PHP interpreter language. 
 
-The database used to handle data for manipulation and everything is SQL database.
+The database used to handle data for manipulation and everything is MySQL database.
 
 
 
